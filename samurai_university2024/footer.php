@@ -17,7 +17,7 @@
                     <div>東京都渋谷区道玄坂2丁目11-1 Gスクエア渋谷道玄坂4F</div>
                     <ul>
                       <li><span>TEL: </span>03-2222-11</li>
-                      <li><span>MAIL: </span>: sample@sejuku.net</li>
+                      <li><span>MAIL: </span>sample@sejuku.net</li>
                     </ul>
                   </div>
                   <div class="footer_social">

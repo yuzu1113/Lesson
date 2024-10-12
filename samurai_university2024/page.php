@@ -27,7 +27,7 @@
                   <!-- Description -->
                   <div class="tab_panel">
                     <div class="tab_panel_title"><?php the_title(); ?></div>
-                  <?php the_content(); ?>
+                    <?php the_content(); ?>
                   </div>
                 </div>
               </div>
